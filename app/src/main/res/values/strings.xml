@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">AplikasiFajar</string>
+    <string name="app_name">Honza</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Aplikasi ini merupakan sebuah aplikasi Android untuk....</string>
+    <string name="kembali">Kembali</string>
 </resources>
