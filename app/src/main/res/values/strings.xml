@@ -1,6 +1,18 @@
 <resources>
-    <string name="app_name">Honza</string>
+    <string name="app_name">Hitung Tabungan</string>
     <string name="tentang_aplikasi">Tentang Aplikasi</string>
     <string name="copyright">Aplikasi ini merupakan sebuah aplikasi Android untuk....</string>
     <string name="kembali">Kembali</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="nominal">Nominal</string>
+    <string name="waktu">Waktu</string>
+    <string name="bulan">Perbulan</string>
+    <string name="tahun">Pertahun</string>
+    <string name="hitung">Hitung</string>
+    <string name="input_invalid">Kolom tidak boleh kosong!</string>
+    <string name="input_minus">Nominal tidak boleh dibawah 0!</string>
+    <string name="hasil">%1$.0f</string>
+    <string name="hasil_bulan">Bulan Lagi</string>
+    <string name="hasil_tahun">Tahun Lagi</string>
+    <string name="warning_tabung">Anda tidak perlu menabung lagi, karena uang anda sudah cukup</string>
 </resources>
