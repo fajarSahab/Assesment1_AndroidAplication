@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculate Saving</string>
+    <string name="tentang_aplikasi">About App</string>
+    <string name="copyright">This application is an Android application for...</string>
+    <string name="kembali">Back</string>
+    <string name="gambar">Image %1$s</string>
+    <string name="nominal">Nominal</string>
+    <string name="waktu">Time</string>
+    <string name="bulan">A Month</string>
+    <string name="tahun">A Year</string>
+    <string name="hitung">Count</string>
+    <string name="input_invalid">Columns cannot be empty!</string>
+    <string name="input_minus">The nominal value cannot be below 0!</string>
+    <string name="hasil">%1$.0f</string>
+    <string name="hasil_bulan">In Month</string>
+    <string name="hasil_tahun">In Year</string>
+    <string name="warning_tabung">You don\'t need to save anymore, because you have enough money</string>
+    <string name="template_bagikan">Car Name: %1$s Price: %2$s Nominal Saving: %3$s %4$s Saving Time: %5$s %6$s</string>
+    <string name="bagikan_hasil">Share</string>
+</resources>
